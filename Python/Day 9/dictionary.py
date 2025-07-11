@@ -1,8 +1,8 @@
 # creating a dictionary
 car = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 1964
 }
 
 #printing a dictionary
@@ -19,17 +19,6 @@ print(car)
 car["brand"] = "Porsche"
 
 print(car)
-
-
-#Loop through a dictionary
-for thing in car:
-    print(thing)    # only prints the key
-
-
-#Loop through a dictionary with key and value
-for key in car:
-    print(key)
-    print(car[key])
 
 
 #Removing an item from dictionary
