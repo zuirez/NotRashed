@@ -11,6 +11,13 @@ print("Hello World!")
 print("Hello World!\nHi")
 ```
 
+```
+output:
+
+Hello World!
+Hi
+```
+
 ### Input
 ``` python
 # This line will just take input, but its not a variable, so to store the value inputed we have to declear a variable
@@ -28,6 +35,13 @@ print(name)
 
 print("Hello! " + input("what is your name?") + "!")
 ```
+
+```
+input : Rashed
+
+output: Hello! Rashed!
+```
+
 >[!Note]
 >This input function will take the input in same line. <br>
 >In order to enter the value in next line we have to use `\n`
@@ -39,7 +53,7 @@ print("Hello! " + input("what is your name?") + "!")
 
 # 1
 name = input("What is your name?")
-print(len(name))
+print(len(name)) #inout Rashed; output 6
 
 # 2
 print(len(input("Enter your name : ")))
