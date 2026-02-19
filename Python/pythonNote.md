@@ -1,5 +1,6 @@
 # Python Notes
 
+Written with love by [Rashed](https://www.github.com/zuirez)
 
 ## Table of Contents
 - [1. Printing and Input](#1-printing-and-input)
@@ -1492,3 +1493,10 @@ Ford
 Mustang
 1964
 ```
+
+
+
+
+
+
+Written with love by [Rashed](https://www.github.com/zuirez)
